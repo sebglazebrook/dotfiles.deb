@@ -1,4 +1,4 @@
-Package: sebgdotfiles
+Package: seb-dotfiles
 Version: <<VERSION_NUMBER>>
 Section: base
 Priority: optional
