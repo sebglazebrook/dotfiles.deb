@@ -8,6 +8,6 @@ ENV CODE_DIR=/code
 
 ENV WORK_DIR=/tmp
 
-ENV PKG_NAME=sebgdotfiles
+ENV PKG_NAME=seb-dotfiles
 
 CMD ./script/build-deb.sh
