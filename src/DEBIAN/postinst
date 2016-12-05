@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Cloning dotfiles"
-git clone https://github.com/sebglazebrook/dotfiles.git "${USER}/.dotfiles"
+git clone https://github.com/sebglazebrook/dotfiles.git "${USERNAME}/.dotfiles"
 
 echo "Running setup script"
-cd "${USER}/.dotfiles" && ./setup
+cd "${USERNAME}/.dotfiles" && ./setup
